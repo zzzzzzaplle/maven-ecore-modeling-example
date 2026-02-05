@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: USTB Mwe2
+Bundle-SymbolicName: edu.ustb.sei.mde.mwe2
+Bundle-Version: 1.0.0.202602050127
+Export-Package: edu.ustb.sei.mde.mwe2,edu.ustb.sei.mde.mwe2.enhancemen
+ t
+Require-Bundle: org.eclipse.emf.mwe2.launch;bundle-version="2.18.0";vi
+ sibility:=reexport,org.eclipse.emf.mwe2.lib;bundle-version="2.18.0";v
+ isibility:=reexport,org.eclipse.emf.mwe2.runtime;bundle-version="2.18
+ .0";visibility:=reexport,org.eclipse.xtext.xbase;bundle-version="2.35
+ .0";visibility:=reexport,org.eclipse.xtend.lib;bundle-version="2.35.0
+ ";visibility:=reexport,org.apache.log4j;bundle-version="1.2.25";visib
+ ility:=reexport,org.eclipse.jdt.core;bundle-version="3.38.0";visibili
+ ty:=reexport,org.apache.commons.logging;bundle-version="1.2.0";visibi
+ lity:=reexport,org.eclipse.core.runtime;bundle-version="3.31.100";vis
+ ibility:=reexport,org.eclipse.xtext.xtext.generator;bundle-version="2
+ .35.0";visibility:=reexport,org.eclipse.emf.codegen.ecore;bundle-vers
+ ion="2.38.0";visibility:=reexport,org.eclipse.jdt;bundle-version="3.1
+ 9.1000"
+Automatic-Module-Name: edu.ustb.sei.mde.mwe2
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+
